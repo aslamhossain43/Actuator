@@ -1,0 +1,10 @@
+${AnsiColor.BLUE}       __                                             _          __         __   __
+${AnsiColor.BLUE}      |  ]                                           (_)        |  ]       |  ] [  |
+${AnsiColor.BLUE}  .--.| |   _ .--.    .--.    ______   _ .--..--.    __     .--.| |    .--.| |   | |   .---.   _   _   __   ,--.    _ .--.   .---.
+${AnsiColor.BLUE}/ /'`\' |  [ '/'`\ \ ( (`\]  |______| [ `.-. .-. |  [  |  / /'`\' |  / /'`\' |   | |  / /__\\ [ \ [ \ [  ] `'_\ :  [ `/'`\] / /__\\
+${AnsiColor.BLUE}| \__/  |   | \__/ |  `'.'.            | | | | | |   | |  | \__/  |  | \__/  |   | |  | \__.,  \ \/\ \/ /  // | |,  | |     | \__.,
+${AnsiColor.BLUE} '.__.;__]  | ;.__/  [\__) )          [___||__||__] [___]  '.__.;__]  '.__.;__] [___]  '.__.'   \__/\__/   \'-;__/ [___]     '.__.'
+${AnsiColor.BLUE}           [__|
+${AnsiColor.BLUE}
+${AnsiColor.MAGENTA}Version: ${AnsiColor.GREEN}${application.version} ${AnsiColor.WHITE}:: ${AnsiColor.MAGENTA}Powered By: ${AnsiColor.GREEN}bKash Developers
+${AnsiColor.WHITE}
